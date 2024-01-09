@@ -38,7 +38,7 @@ Download a release package for your architecture from the [project's GitHub rele
 #### Installing Finch via [brew](https://brew.sh/)
 
 ```sh
-brew install --cask finch
+brew install finch
 ```
 
 Once the installation is complete, `finch vm init` is required once to set up the underlying system. This initial setup usually takes about a minute.
